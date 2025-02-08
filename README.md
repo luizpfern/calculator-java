@@ -9,6 +9,9 @@ This is a calculator developed in Java during the 4th semester of university and
 - **Memory and Clearing**: Clear (C) button for resetting calculations
 - **GUI**: Developed with user interface
 
+## Graphical User Interface
+![Java Scientific Calculator](images/calculator-img1.png) ![Java Scientific Calculator 2](images/calculator-img2.png)
+
 ## Test it!
 Clone this repository:
    ```bash
